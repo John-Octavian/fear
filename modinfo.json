@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "fear",
+    "name": "Fear", 
+    "authors": [ "John" ],
+    "description": "Adds all manner of creatures, locations and hallucinations to drive you to the brink of insanity. Will you hide from the horrors that hunt you? Succumb to bloodlust and join the nightmares? Delve into the hives in search of the source of the demons that crawl out of it?",
+    "category": "content",
+    "dependencies": [ "dda" ]
+  }
+]
